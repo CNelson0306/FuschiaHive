@@ -1,0 +1,18 @@
+.discount {
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.discount h1 {
+    font-family: cursive;
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.discount h4 {
+    font-family: fantasy;
+    font-weight: bold;
+}
