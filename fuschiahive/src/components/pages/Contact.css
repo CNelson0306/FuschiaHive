@@ -51,7 +51,7 @@ input[type='submit'] {
 
 input[type='submit']:hover {
     transform: scale(1.05);
-    background-color: fuchsia;
+    background-color: #ff66c4;
     color: #fff;
 }
 

@@ -1,3 +1,9 @@
+.background {
+    background-image: url('../../assets/discount.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .discount {
     display: flex;
     flex-direction: column;

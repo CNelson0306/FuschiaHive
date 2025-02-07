@@ -1,7 +1,11 @@
 .beautyContainer {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    text-align: center;        
+    background-image: url('../../assets/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    
 }
 
 .sectionTitle {

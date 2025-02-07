@@ -5,7 +5,7 @@ function Beauty() {
   return (
     <>
     <section id='beauty' className='beautyContainer'>
-    <h1 className='sectionTitle'>Beauty</h1>
+    <h1 className='header'>& Beauty</h1>
     <div className="beautyTreatment">
         <span>gel polish hands (Natural nails)</span>
             <p>from £28</p>
