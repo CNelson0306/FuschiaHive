@@ -22,3 +22,10 @@
     font-family: fantasy;
     font-weight: bold;
 }
+
+@media (max-width: 600px){
+    .background {
+        background-image: none;
+    }
+    
+}
