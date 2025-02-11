@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Script&family=Roboto+Mono:wght@100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:wght@800&display=swap" rel="stylesheet">');
 
 .header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
     font-family: 'League Script';
     text-align: center;
     color: #ff66c4;

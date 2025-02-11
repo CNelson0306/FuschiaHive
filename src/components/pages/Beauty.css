@@ -8,6 +8,14 @@
     
 }
 
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
 .sectionTitle {
     font-family: cursive;
     font-size: 32px;
