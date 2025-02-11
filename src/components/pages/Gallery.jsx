@@ -108,6 +108,7 @@ function Gallery () {
 
   return (
     
+    <div className='displayContainer'>
       <div className='imageSlider'>
         <div className='imageSliderContainer'>
           <div className='images'>
@@ -131,6 +132,7 @@ function Gallery () {
           })
         }
       </div>
+    </div>
     
     
   )

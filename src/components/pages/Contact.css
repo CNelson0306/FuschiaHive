@@ -2,6 +2,9 @@
     display: flex;
     flex-direction: column;
     text-align: center;
+    background-image: url('../../assets/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 form {
@@ -36,17 +39,18 @@ input, textarea {
 }
 
 input[type='submit'] {
-    background-color: #888;
-    color: white;
+    background-color: #ff66c4;
+    color: #080808;
     border: none;
     border-radius: 20px;
     width: 126px;
     height: 50px;
     font-size: 20px;
-    font-weight: bold;
     box-shadow: 0 4px 4px rgba(0,0,0,0.25);
     transition: box-shadow 200ms ease-in-out, transform 200ms ease-in-out;
     margin: auto;
+    margin-bottom: 20px;
+    text-transform: uppercase;
 }
 
 input[type='submit']:hover {

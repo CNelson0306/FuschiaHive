@@ -1,6 +1,7 @@
 import './App.css'
 import { Navbar } from './components/Navbar';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './components/pages/Home';
 import Gallery  from './components/pages/Gallery';
 import Hair from './components/pages/Hair';
 import Beauty from './components/pages/Beauty';
@@ -16,7 +17,10 @@ function App() {
     <div className='navbar'>
       <Navbar />
         <Routes>
-          <Route path='/' element={<><Hair /><Beauty /><Discount /></>} />
+          <Route path='/' element={<Home />} />
+      </Routes>
+        <Routes>
+          <Route path='/pricing' element={<><Hair /><Beauty /><Discount /></>} />
       </Routes>
     </div>
       <Routes>
