@@ -9,6 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items:center;
+    margin: auto;
     margin-bottom: 20px;
     font-family: 'League Script';
     font-size: 40px;
