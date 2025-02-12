@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Script&family=Roboto+Mono:wght@100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:wght@800&display=swap" rel="stylesheet">');
+
 .display {
     background-image: url('../../assets/background.jpg');
     background-size: cover;
@@ -28,6 +30,13 @@
     color: #ff66c4;
     font-family: 'League';
 } 
+
+.intro {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-size: 24px;
+}
 
 .awards {
     display: flex;

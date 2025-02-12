@@ -6,3 +6,27 @@
         color: #888;
     }
 }
+
+.social h4 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.social span {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.social img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    display: block;
+}

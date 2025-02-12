@@ -1,3 +1,36 @@
+.location {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.location h2 {
+    margin-top: 50px;
+    font-family: 'League';
+    text-transform: uppercase;
+}
+
+.address {
+    display: flex;
+    align-items: flex-start; 
+    gap: 20px; 
+}
+
+.address h4 {
+    font-family: 'League';
+    text-transform: uppercase;
+    color: #ff66c4;;
+}
+
+.address h4, .address p {
+    margin: 20px 0;
+}
+
+.map {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
 .contactContainer {
     display: flex;
     flex-direction: column;

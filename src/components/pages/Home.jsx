@@ -7,7 +7,12 @@ function Home () {
   return (
     <div className='display'>
         <h1>Hair & Beauty</h1>
-        <h2>Established 2???</h2>
+        <h2>Established 2015</h2>
+        
+        <div className='intro'>
+          <p>Fully Qualified & Insured</p>
+          <p>Award Winning Salon</p>
+        </div>
         <div className='awards'>
             <div className='awardSwansea'>
                 <img src={swansea} />
