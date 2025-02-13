@@ -29,7 +29,17 @@
     font-size: 18px;
     color: #ff66c4;
     font-family: 'League';
-} 
+}
+
+.bio {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bio p {
+    font-size: 24px;
+    color: #888;
+}
 
 .intro {
     text-align: center;
@@ -41,6 +51,8 @@
 .intro p {
     font-family: 'League';
     font-size: 24px;
+    color: #888;
+
 }
 
 .awards {
@@ -48,7 +60,7 @@
     flex-direction: row;
     justify-content: center; 
     align-items: center; 
-    gap: 20px; 
+    gap: 30px; 
 }
 
 .awardSwansea, .awardPeople {
@@ -60,47 +72,10 @@
     max-width: 100%; 
     height: auto; 
     display: block; 
-    margin-bottom: 30px;
     border-radius: 25px;
     box-shadow: 0px 0px 30px 2px;
     border: 1px solid;
-    opacity: 0.8;
+    opacity: 0.7;
+    margin-bottom: 30px;
 }
 
-/*
-
-.awards {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.awardSwansea img {
-    justify-content: flex-start;
-    margin-top: auto;
-    margin-bottom: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 300px;
-    width: auto;
-    border-radius: 25px;
-    box-shadow: 0px 0px 30px 2px;
-    border: 1px solid #fff;
-}
-
-.awardPeople img {
-    justify-content: flex-end;
-    margin-top: auto;
-    margin-bottom: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 300px;
-    width: auto;
-    border-radius: 15px;
-    box-shadow: 0px 0px 30px 2px;
-    border: 1px solid #fff;
-}
-*/
