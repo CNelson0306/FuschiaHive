@@ -64,7 +64,7 @@ function Beauty() {
         <hr />
         <br />
     <div className='beautyTreatment'>
-        <span>Brw lamination with wax & tint</span>
+        <span>Brow lamination with wax & tint</span>
             <p>£30</p>
     </div>
         <br />

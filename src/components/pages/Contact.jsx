@@ -29,7 +29,7 @@ function Contact() {
             <h1 className='sectionTitle'>Contact</h1>
 
 
-            <form action='' method='post'>
+            <form action='https://formspree.io/f/xzzdaybz' method='post'>
                 <div className='formGroup'>
                     <label htmlFor='name' hidden>
                         Name
