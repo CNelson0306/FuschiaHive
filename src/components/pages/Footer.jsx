@@ -1,6 +1,6 @@
 import './Footer.css'
 import facebook from '../../assets/facebook.png';
-import instagram from '../../assets/instagram.png';
+
 
 function Footer() {
     return (

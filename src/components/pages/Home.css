@@ -38,6 +38,37 @@
     font-size: 24px;
 }
 
+.intro p {
+    font-family: 'League';
+    font-size: 24px;
+}
+
+.awards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
+}
+
+.awardSwansea, .awardPeople {
+    width: 250px; 
+    text-align: center; 
+}
+
+.awardSwansea img, .awardPeople img {
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin-bottom: 30px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px 2px;
+    border: 1px solid;
+    opacity: 0.8;
+}
+
+/*
+
 .awards {
     display: flex;
     flex-direction: column;
@@ -46,6 +77,7 @@
 }
 
 .awardSwansea img {
+    justify-content: flex-start;
     margin-top: auto;
     margin-bottom: 20px;
     display: flex;
@@ -59,6 +91,7 @@
 }
 
 .awardPeople img {
+    justify-content: flex-end;
     margin-top: auto;
     margin-bottom: 20px;
     display: flex;
@@ -70,4 +103,4 @@
     box-shadow: 0px 0px 30px 2px;
     border: 1px solid #fff;
 }
-
+*/

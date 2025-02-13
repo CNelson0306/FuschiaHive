@@ -12,6 +12,7 @@ function Home () {
         <div className='intro'>
           <p>Fully Qualified & Insured</p>
           <p>Award Winning Salon</p>
+          <p>Voted Best In swansea & people's choice in 2022</p>
         </div>
         <div className='awards'>
             <div className='awardSwansea'>
