@@ -69,7 +69,7 @@ input, textarea {
     box-sizing: border-box;
     justify-self: center;
     background-color: #fff;
-    color: #fff
+    color: #080808;
 }
 
 ::placeholder {

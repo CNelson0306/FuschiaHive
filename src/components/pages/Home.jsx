@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css';
-import swansea from '../../assets/bestSwansea.png';
-import people from '../../assets/peoplesChoice.png';
+import swansea from '../../assets/bestSwansea.webp'
+import people from '../../assets/peoplesChoice.webp';
 
 function Home () {
   return (
