@@ -20,7 +20,7 @@ function Home () {
               <p>multiple awards, showcasing expertise and a commitment to excellence.</p>
               <br />
               <p>Backed by extensive qualifications across a variety of hair and beauty services, I offer</p>
-              <p>everything from blow drys, nails, waxing, tinting to complete transformations.</p>
+              <p>everything from colours, nails, waxing, lashlifts to complete transformations.</p>
               <p>Whether you're looking for a simple refresh or a dramatic makeover, I will be with</p>
               <p>you every step of the way making you feel your best.</p>
               <br />

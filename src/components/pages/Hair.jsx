@@ -41,9 +41,9 @@ function Hair(){
 
           <div className='hairTreatment'>
             <span>wedding and occasion hair</span>
-              <p>???</p>
+              <p>£35 (2026 increasing to £40)</p>
             <span>with clip in extensions</span>
-              <p>???</p>
+              <p>+ £5</p>
           </div>
           <br />
           <hr />
