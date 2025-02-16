@@ -65,19 +65,16 @@
 }
 
 .awards div {
-    border-radius: 25px;
-    box-shadow: 0px 0px 30px 2px;
     margin-bottom: 40px;
     text-align: center;
-    flex: 1 1 250px;
-    max-width: 300px;
+
 }
 
 .awards img {
-    width: 200px; 
-    height: auto;
-    max-width: 250px;
+    width: 250px; 
+    max-width: 200px;
     border-radius: 25px;
+    box-shadow: 0px 0px 30px 2px;
 }
 
 .certs {
