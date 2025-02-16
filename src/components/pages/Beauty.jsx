@@ -51,7 +51,7 @@ function Beauty() {
         <span>half leg wax</span>
             <p>£20</p>
         <span>full leg wax</span>
-            <p>£???</p>
+            <p>£28</p>
     </div>
         <br />
         <hr />

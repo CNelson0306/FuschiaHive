@@ -2,6 +2,9 @@ import React from 'react'
 import './Home.css';
 import swansea from '../../assets/bestSwansea.webp'
 import people from '../../assets/peoplesChoice.webp';
+import oceanic from '../../assets/oceanic.webp';
+import award2023 from '../../assets/award2023.png';
+import award2024 from '../../assets/award2024.png';
 
 function Home () {
   return (
@@ -41,6 +44,18 @@ function Home () {
                 <div className='awardPeople'>
                     <img src={people} />
                 </div>
+                <div className='oceanic'>
+                    <img src={oceanic} />
+                </div>
+          </div>
+
+          <div className='certs'>
+            <div className='award23'>
+              <img src={award2023} />
+            </div>
+            <div className='award24'>
+              <img src={award2024} />
+            </div>
           </div>
     </div>
   )
