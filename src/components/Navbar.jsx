@@ -9,13 +9,22 @@ export const Navbar = () => {
   //If not give empty class name ""
   const [hamburgerOpen, setHamburgerOpen] = useState(false);
 
+  {
+    /*
   useEffect(() => {
     document.body.classList.toggle("menu-open", hamburgerOpen);
   }, [hamburgerOpen]);
+    */
+  }
 
   const closeMenu = () => {
     setHamburgerOpen(false);
   };
+
+  useEffect(() => {
+    document.body.classList.toggle("menu-open", hamburgerOpen);
+    document.body.style.overflow = hamburgerOpen ? "hidden" : "";
+  }, [hamburgerOpen]);
 
   return (
     <nav>

@@ -9,30 +9,30 @@ function Hair() {
         <section id="hair" className="hairContainer">
           <div className="hairTreatment">
             <span>short blowdry</span>
-            <p>£18</p>
+            <p>£19</p>
             <span>shoulder length blowdry</span>
-            <p>£21</p>
-            <span>long blowdry</span>
-            <p>£25</p>
-            <span>cut & blowdry</span>
-            <p>£30</p>
-            <span>restyle cut & blowdry</span>
-            <p>£34</p>
-            <span>wet/dry cut</span>
-            <p>£17</p>
-            <span>wet/dry cut (under 12's)</span>
-            <p>£11</p>
-            <span>cut & blowdry (under 12's)</span>
             <p>£22</p>
+            <span>long blowdry</span>
+            <p>£26</p>
+            <span>cut & blowdry</span>
+            <p>£33</p>
+            <span>restyle cut & blowdry</span>
+            <p>£37</p>
+            <span>wet/dry cut</span>
+            <p>£18</p>
+            <span>wet/dry cut (under 12's)</span>
+            <p>£12</p>
+            <span>cut & blowdry (under 12's)</span>
+            <p>£25</p>
             <span>gents / boys cut</span>
-            <p>£11</p>
+            <p>£12</p>
           </div>
 
           <hr />
 
           <div className="hairTreatment">
             <span>olaplex treatment & style</span>
-            <p>£40</p>
+            <p>FROM £40</p>
           </div>
 
           <hr />
@@ -70,122 +70,122 @@ function Hair() {
           <br />
           <div className="hairTreatmentCombined">
             <span>root tint and blowdry</span>
-            <p>£44</p>
-            <p>£50</p>
+            <p>£49</p>
+            <p>£55</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>root tint cut & blowdry</span>
-            <p>£50</p>
             <p>£55</p>
+            <p>£60</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>all over tint & blowdry</span>
-            <p>£55</p>
+            <p>£60</p>
             <p>£65</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>all over tint cut & blowdry</span>
-            <p>£57</p>
-            <p>£67</p>
+            <p>£62</p>
+            <p>£72</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>scalp bleach root & blowdry</span>
-            <p>£50</p>
-            <p>£54</p>
+            <p>£55</p>
+            <p>£60</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>scalp bleach root cut & blowdry</span>
-            <p>£55</p>
-            <p>£59</p>
+            <p>£60</p>
+            <p>£65</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>all over bleaching & blowdry</span>
             <p>£79</p>
-            <p>£84</p>
-          </div>
-
-          <div className="hairTreatmentCombined">
-            <span>all over bleaching cut & blowdry</span>
-            <p>£84</p>
             <p>£89</p>
           </div>
 
           <div className="hairTreatmentCombined">
+            <span>all over bleaching cut & blowdry</span>
+            <p>£89</p>
+            <p>£99</p>
+          </div>
+
+          <div className="hairTreatmentCombined">
             <span>1/4 head highlights & blowdry</span>
-            <p>£52</p>
-            <p>£55</p>
+            <p>£57</p>
+            <p>£62</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>1/4 head highlights cut & blowdry</span>
-            <p>£61</p>
-            <p>£64</p>
+            <p>£66</p>
+            <p>£71</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>t-section highlights & blowdry</span>
-            <p>£57</p>
-            <p>£60</p>
-          </div>
-
-          <div className="hairTreatmentCombined">
-            <span>t-section highlights cut & blowdry</span>
-            <p>£64</p>
+            <p>£65</p>
             <p>£70</p>
           </div>
 
           <div className="hairTreatmentCombined">
-            <span>1/2 head highlights & blowdry</span>
-            <p>£65</p>
-            <p>£71</p>
-          </div>
-
-          <div className="hairTreatmentCombined">
-            <span>1/2 head highlights cut & blowdry</span>
-            <p>£71</p>
+            <span>t-section highlights cut & blowdry</span>
+            <p>£72</p>
             <p>£77</p>
           </div>
 
           <div className="hairTreatmentCombined">
-            <span>full head highlights & blowdry</span>
-            <p>£79</p>
-            <p>£85</p>
+            <span>1/2 head highlights & blowdry</span>
+            <p>£72</p>
+            <p>£77</p>
           </div>
 
           <div className="hairTreatmentCombined">
-            <span>full head highlights cut & blowdry</span>
-            <p>£84</p>
+            <span>1/2 head highlights cut & blowdry</span>
+            <p>£77</p>
+            <p>£82</p>
+          </div>
+
+          <div className="hairTreatmentCombined">
+            <span>full head highlights & blowdry</span>
+            <p>£85</p>
             <p>£90</p>
           </div>
 
           <div className="hairTreatmentCombined">
+            <span>full head highlights cut & blowdry</span>
+            <p>£90</p>
+            <p>£95</p>
+          </div>
+
+          <div className="hairTreatmentCombined">
             <span>bleaching for colour correction/change</span>
-            <p>+ £39</p>
-            <p>+ £51</p>
+            <p>+ £44</p>
+            <p>+ £56</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>tint in-between highlights</span>
-            <p>+ £19</p>
-            <p>+ £21</p>
+            <p>+ £24</p>
+            <p>+ £29</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>toners</span>
-            <p>+ £21</p>
-            <p>+ £23</p>
+            <p>+ £26</p>
+            <p>+ £31</p>
           </div>
 
           <div className="hairTreatmentCombined">
             <span>ombre/balyage</span>
-            <p>from £84</p>
             <p>from £90</p>
+            <p>from £95</p>
           </div>
 
           <hr />
@@ -211,8 +211,8 @@ function Hair() {
               Hair extension removal including a treatment, cut & blowdry
               (hourly)
             </span>
-            <p>£60</p>
-            <p>£60</p>
+            <p>£70</p>
+            <p>£70</p>
           </div>
 
           <hr />
